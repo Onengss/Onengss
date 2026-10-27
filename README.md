@@ -10,7 +10,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a Computer Science (Software Development) graduate and former System Analyst at Datakraf Solution Sdn Bhd (2025–2026).
+I'm a Computer Science (Software Development) graduate and former System Analyst.
 
 My experience includes:
 - Requirements analysis and BRS/SRS documentation
